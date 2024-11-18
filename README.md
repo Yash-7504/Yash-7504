@@ -28,14 +28,11 @@ I'm a passionate **Blockchain and Full-Stack Developer** currently pursuing a Ba
 ---
 
 ## 📂 Noteworthy Projects:
-1. **ERC-6551 NFT Wallet**
-   - Developed a decentralized wallet application for managing NFTs with **token-bound accounts**.
-   - Implemented **Limit Orders, Take Profit, and Stop Loss** functionalities for automated trading.
-2. **Crowdfunding DApp**
+1. **Crowdfunding DApp**
    - Decentralized crowdfunding platform using **Solidity** and **JavaScript** with campaign management features.
-3. **Smart-Contract Lottery System**
+2. **Smart-Contract Lottery System**
    - A fully functional, tamper-proof **lottery system** on the Ethereum blockchain.
-4. **Slot-Machine Game**
+3. **Slot-Machine Game**
    - A **JavaScript-based game**, focusing on fair randomization algorithms.
 
 ---
