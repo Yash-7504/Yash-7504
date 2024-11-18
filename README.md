@@ -5,13 +5,18 @@ I'm a passionate **Blockchain and Full-Stack Developer** currently pursuing a Ba
 ---
 
 ## 🛠️ What I Do:
-- **Blockchain Development**: Building decentralized applications (DApps) using **Solidity, Hardhat, and JavaScript**, focusing on areas like crowdfunding platforms and lottery systems.
+- **Blockchain Development**: Building decentralized applications (DApps) using **Solidity, Hardhat, and JavaScript**, focusing on areas like token-bound accounts and automated trading features.
 - **Cloud Computing**: Hands-on experience with **AWS services** like EC2, Load Balancers, and S3 from my internship at F13 Technologies.
 - **Full-Stack Development**: Proficient with **ReactJS, Node.js, and Docker**. Developed full-stack applications, integrating **smart contracts** with frontend interfaces.
 
 ---
 
 ## 💼 Experience:
+- **Blockchain Research Intern** @ Quranium (Sep 2024 – Present)
+  - Conducting research and development on blockchain protocols, particularly focusing on **ERC-6551 token-bound accounts** and **automated trading features** (Limit Orders, Take Profit, Stop Loss).
+  - Integrated decentralized wallet systems for managing NFT-based assets using **Next.js** and **Web3.js**.
+  - Addressed technical challenges like **CORS issues** and **IPFS metadata handling** for decentralized storage.
+
 - **Blockchain Development Intern** @ YoloWolo.com (Feb 2024 – April 2024)
   - Built and deployed NFT contracts using **ERC-721 standards**.
   - Developed frontend features using **ReactJS** and tested smart contracts.
@@ -23,11 +28,14 @@ I'm a passionate **Blockchain and Full-Stack Developer** currently pursuing a Ba
 ---
 
 ## 📂 Noteworthy Projects:
-1. **Crowdfunding DApp**
+1. **ERC-6551 NFT Wallet**
+   - Developed a decentralized wallet application for managing NFTs with **token-bound accounts**.
+   - Implemented **Limit Orders, Take Profit, and Stop Loss** functionalities for automated trading.
+2. **Crowdfunding DApp**
    - Decentralized crowdfunding platform using **Solidity** and **JavaScript** with campaign management features.
-2. **Smart-Contract Lottery System**
+3. **Smart-Contract Lottery System**
    - A fully functional, tamper-proof **lottery system** on the Ethereum blockchain.
-3. **Slot-Machine Game**
+4. **Slot-Machine Game**
    - A **JavaScript-based game**, focusing on fair randomization algorithms.
 
 ---
