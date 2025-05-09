@@ -31,7 +31,7 @@ I'm a passionate **Software Development Engineer** currently pursuing a Bachelor
 1. **Crowdfunding DApp**
    - Decentralized crowdfunding platform using **Solidity** and **JavaScript** with campaign management features.
    - Designed and deployed smart contracts to securely manage funds and automate campaign milestones.
-   - 
+  
 2. **Decentralized Drug Tracing Project | JavaScript, Solidity, Hardhat, React.js, Node.js, Tailwind CSS, HTML**
    - Designed and implemented a blockchain-based pharmaceutical supply chain solution using Solidity and Ethereum smart contracts to ensure transparent drug authenticity verification and combat counterfeit medications.
    - Developed a full-stack web application with React frontend and Node.js backend that seamlessly integrates with blockchain technology, allowing multiple stakeholders (manufacturers, distributors, retailers) to track medication lifecycle.
